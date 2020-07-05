@@ -1,6 +1,6 @@
 # StackedBar (v1.21)
 
-The guide line for Stacked bar chart
+The guide line for Stacked bar chart (Relocation of github)
 
 ## Basic Usage
 
